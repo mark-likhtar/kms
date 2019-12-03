@@ -1,0 +1,23 @@
+.primaryButtonContainer {
+  background: #566a9e;
+  width: fit-content;
+  height: fit-content;
+  display: block;
+}
+.primaryButton {
+  background: #7490d8;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 16px;
+  cursor: pointer;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  transform: translate(-5px, -5px);
+  text-align: center;
+}
+.primaryButton:hover {
+  transform: none;
+}

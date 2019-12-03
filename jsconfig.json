@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es2017",
+      "baseUrl": "./",
+      "allowSyntheticDefaultImports": true,
+      "paths": {
+        "src/*": ["src/*"]
+      }
+    },
+    "exclude": ["node_modules", "build"]
+  }

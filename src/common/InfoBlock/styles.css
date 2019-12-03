@@ -1,0 +1,21 @@
+.infoBlockContainer {
+  padding: 38px 40px;
+  background: rgba(138, 171, 255, 0.1);
+  border: 2px solid #7490d8;
+  box-sizing: border-box;
+  width: fit-content;
+  height: fit-content;
+
+  font-family: Fira Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 45px;
+  /* or 125% */
+  display: flex;
+  align-items: center;
+  letter-spacing: 1px;
+
+  /* 1 */
+  color: #444444;
+}

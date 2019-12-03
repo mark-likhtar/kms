@@ -1,0 +1,18 @@
+.secondaryButton {
+  border: 2px solid #7490d8;
+  background: transparent;
+  color: #7490d8;
+  font-size: 16px;
+  line-height: 16px;
+  cursor: pointer;
+  font-weight: bold;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  height: fit-content;
+  display: block;
+}
+.secondaryButton:hover {
+  border: 2px solid #7490d8;
+  background: #7490d8;
+  color: #ffffff;
+}
